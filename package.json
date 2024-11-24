@@ -1,0 +1,14 @@
+{
+  "name": "trie-algoritm-in-js",
+  "version": "1.0.0",
+  "description": "Implement trie algorithm in javascript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "trie"
+  ],
+  "author": "hadi arbabi",
+  "license": "ISC"
+}
